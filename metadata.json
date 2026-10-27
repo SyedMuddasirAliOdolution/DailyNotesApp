@@ -1,0 +1,6 @@
+{
+  "name": "Daily Notes AI",
+  "description": "Secure, encrypted notes manager with AI auto-summaries, voice dictation, smart tagging, and search.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
